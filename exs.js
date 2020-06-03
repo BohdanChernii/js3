@@ -12,7 +12,7 @@ function circleCircumference(circle) {
 }
 
 third:https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.codewars.com%2Fkata%2Ffun-with-es6-classes-number-2-animals-and-inheritance%2Ftrain%2Fjavascript%3Ffbclid%3DIwAR3d2sBlheFqN2T0cn1XeyhrGZhV3gv6XXwtZrJHl8ShHKX4uPfDNNmXR88&h=AT2suazPYYJ2EsDcPbXs_Dzbbf_rS3ZnsNLFFV3xiqMrTBMgKpcPt877fwNCTAbiwY7RSQjkoa-hokHYzavVx8NQ74xnpaBqgfn6VhCDaQn8UQsIAE7Lv1lH8mW0_fgL1V1g&__tn__=-UK-R&c[0]=AT1JnNoAIZPFKy1IDh4TP3WDFWpeGz7s5ZECfnVCGz5J5xJslSEqSy7gE2aNGlVhcUoqpRgpGM_RdErA-rAPB9F8bcOlWu4urdwgyfNo4w8OrETnPANmrVpP5TN6I-0iD-BGM54AAewthUzDbydUVRddRvGXbAdvWyBlBt_HzK6j06UhNVCYLQ
-(nice for shop)
+
 class Dog extends Animal {
   constructor(name, age, status,master){
      super(name, age, 4,"dog", status );
