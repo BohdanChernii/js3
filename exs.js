@@ -23,3 +23,12 @@ class Dog extends Animal {
    }
 }
     
+fourth:https://www.codewars.com/kata/training-js-number-12-loop-statement-for-dot-in-and-for-dot-of/train/javascript?fbclid=IwAR089-enzMLN_DFZHXTDvxP9ngqngFyqxM8Xd2nxhUS39sq8opaTHrNIK3Y
+function giveMeFive(obj) {
+	let five[];
+	for(let key in obj) {
+		if(obj.length == 5) five.push(key);
+		if(obj[key].length == 5) five.push(obj[key]);
+	}
+	return five;
+}
